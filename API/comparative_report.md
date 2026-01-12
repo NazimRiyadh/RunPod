@@ -11,7 +11,7 @@ The L4 GPU provided **identical performance** to high-end enterprise GPUs for yo
 
 _Source: User provided screenshot of RunPod Console (vLLM Template)_
 
-![RunPod Pricing Snapshot](file:///C:/Users/User/.gemini/antigravity/brain/00b0f401-7760-498d-a131-af26382162b1/uploaded_image_1768216783934.png)
+![RunPod Pricing Snapshot](./pricing_evidence.png)
 
 ### Pricing Breakdown (from Snapshot)
 
